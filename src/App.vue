@@ -32,7 +32,7 @@ export default {
          dataSource : [
              {
               Id : 1,
-              Subject : 'Skarting',
+              Subject : 'Skating',
               StartTime: new Date(2022, 5, 6, 10, 0, 0),
               EndTime: new Date(2022, 5, 6, 11, 0, 0),
               ResourceId : 1
